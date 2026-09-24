@@ -13,8 +13,10 @@
 <img src="docs/images/wifi-screen.jpg" alt="Wi-Fi name and IP screen" width="300">
 
 </div>
-<img width="3024" height="4032" alt="cpu-screen" src="https://github.com/user-attachments/assets/a3983fc0-89b7-43d1-a8a9-a25d79eae340" />
 
+
+---
+<img width="3024" height="4032" alt="cpu-screen" src="https://github.com/user-attachments/assets/a3983fc0-89b7-43d1-a8a9-a25d79eae340" />
 ---
 
 ## 📖 Table of contents
